@@ -1,4 +1,4 @@
-Name,Age,Nationality,Club,Value,Preferred Foot,Jersey Number,Height,Weight,Best Position,Contract Valid Until,name,avg_term_as_coach
+Name,Age,Nationality,Club,Value,Preferred_Foot,Jersey_Number,Height,Weight,Best_Position,Contract_Valid_Until,name_coach,avg_term_as_coach
 L. Goretzka,26,Germany,FC Bayern ,€93M,Right,8,189cm,82kg,CM,2026,Julian Nagelsmann,2.00 Years
 J. Kimmich,26,Germany,FC Bayern ,€108M,Right,6,177cm,75kg,CDM,2025,Julian Nagelsmann,2.00 Years
 M. Sabitzer,27,Austria,FC Bayern ,€48M,Right,18,178cm,76kg,CM,2025,Julian Nagelsmann,2.00 Years
